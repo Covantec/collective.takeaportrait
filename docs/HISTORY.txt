@@ -4,7 +4,8 @@ Changelog
 0.2.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Added Spanish translation
+  [macagua]
 
 
 0.2.0 (2014-02-20)
